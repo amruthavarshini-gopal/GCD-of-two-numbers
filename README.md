@@ -41,7 +41,7 @@ def gcd():
 
 ## Output:
 
-![gcd of two number](gcd.png)
+![Alt text](gcd.PNG)
 
 ![Alt text](gcd1.png)
 
